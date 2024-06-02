@@ -11,11 +11,11 @@ using namespace std;
 	（3）定义结构体时顺便创建变量;
 */
 
-struct Student {
-	string name;
-	int age;
-	int score;
-};
+//struct Student {
+//	string name;
+//	int age;
+//	int score;
+//};
 
 // 第三种方式
 //struct Student {

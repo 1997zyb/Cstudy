@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E6CCE66-3206-4F3D-A6B2-F7B73F9A9DF7}|\u7ED3\u6784\u4F53.vcxproj|D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u7ED3\u6784\u4F53\u7684\u5B9A\u4E49\u548C\u4F7F\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3E6CCE66-3206-4F3D-A6B2-F7B73F9A9DF7}|\u7ED3\u6784\u4F53.vcxproj|solutionrelative:\u7ED3\u6784\u4F53\u7684\u5B9A\u4E49\u548C\u4F7F\u7528.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3E6CCE66-3206-4F3D-A6B2-F7B73F9A9DF7}|\u7ED3\u6784\u4F53.vcxproj|D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u7ED3\u6784\u4F53\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E6CCE66-3206-4F3D-A6B2-F7B73F9A9DF7}|\u7ED3\u6784\u4F53.vcxproj|solutionrelative:\u7ED3\u6784\u4F53\u6570\u7EC4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,19 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "\u7ED3\u6784\u4F53\u7684\u5B9A\u4E49\u548C\u4F7F\u7528.cpp",
-              "DocumentMoniker": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u7ED3\u6784\u4F53\u7684\u5B9A\u4E49\u548C\u4F7F\u7528.cpp",
-              "RelativeDocumentMoniker": "\u7ED3\u6784\u4F53\u7684\u5B9A\u4E49\u548C\u4F7F\u7528.cpp",
-              "ToolTip": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u7ED3\u6784\u4F53\u7684\u5B9A\u4E49\u548C\u4F7F\u7528.cpp",
-              "RelativeToolTip": "\u7ED3\u6784\u4F53\u7684\u5B9A\u4E49\u548C\u4F7F\u7528.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Title": "\u7ED3\u6784\u4F53\u6570\u7EC4.cpp",
+              "DocumentMoniker": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u7ED3\u6784\u4F53\u6570\u7EC4.cpp",
+              "RelativeDocumentMoniker": "\u7ED3\u6784\u4F53\u6570\u7EC4.cpp",
+              "ToolTip": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u7ED3\u6784\u4F53\u6570\u7EC4.cpp",
+              "RelativeToolTip": "\u7ED3\u6784\u4F53\u6570\u7EC4.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-02T08:38:19.873Z",
+              "WhenOpened": "2024-06-02T09:40:40.335Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
