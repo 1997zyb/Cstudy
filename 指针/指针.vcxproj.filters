@@ -27,5 +27,8 @@
     <ClCompile Include="const修饰指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针和数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
