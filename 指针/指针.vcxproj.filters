@@ -21,5 +21,8 @@
     <ClCompile Include="指针所占内存空间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="空指针和野指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
