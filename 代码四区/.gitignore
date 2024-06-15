@@ -1,0 +1,8 @@
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.sln
+*.vcxproj
+.gitattributes

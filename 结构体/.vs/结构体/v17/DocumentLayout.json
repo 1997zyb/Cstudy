@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3E6CCE66-3206-4F3D-A6B2-F7B73F9A9DF7}|\u7ED3\u6784\u4F53.vcxproj|D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u6848\u4F8B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3E6CCE66-3206-4F3D-A6B2-F7B73F9A9DF7}|\u7ED3\u6784\u4F53.vcxproj|solutionrelative:\u6848\u4F8B2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -14,28 +9,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 109,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\u6848\u4F8B2.cpp",
-              "DocumentMoniker": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u6848\u4F8B2.cpp",
-              "RelativeDocumentMoniker": "\u6848\u4F8B2.cpp",
-              "ToolTip": "D:\\Cstudy\\\u7ED3\u6784\u4F53\\\u6848\u4F8B2.cpp",
-              "RelativeToolTip": "\u6848\u4F8B2.cpp",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-02T14:49:45.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
