@@ -1,0 +1,5 @@
+﻿  1代码区.cpp
+  2栈区.cpp
+  正在生成代码...
+D:\Cstudy\代码四区\2栈区.cpp(11,1): warning C4172: 返回局部变量或临时变量的地址: a
+  代码四区.vcxproj -> D:\Cstudy\代码四区\Debug\代码四区.exe

@@ -1,16 +1,3 @@
-﻿  1代码区.cpp
-D:\Cstudy\代码四区\1代码区.cpp(32,29): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-D:\Cstudy\代码四区\1代码区.cpp(32,29): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-D:\Cstudy\代码四区\1代码区.cpp(33,29): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-D:\Cstudy\代码四区\1代码区.cpp(33,29): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-D:\Cstudy\代码四区\1代码区.cpp(34,31): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-D:\Cstudy\代码四区\1代码区.cpp(34,31): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-D:\Cstudy\代码四区\1代码区.cpp(35,31): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-D:\Cstudy\代码四区\1代码区.cpp(35,31): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-D:\Cstudy\代码四区\1代码区.cpp(39,31): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
-D:\Cstudy\代码四区\1代码区.cpp(39,31): warning C4302: “类型强制转换”: 从“int *”到“int”截断
-D:\Cstudy\代码四区\1代码区.cpp(42,31): warning C4311: “类型强制转换”: 从“const char (*)[6]”到“int”的指针截断
-D:\Cstudy\代码四区\1代码区.cpp(42,31): warning C4302: “类型强制转换”: 从“const char (*)[6]”到“int”截断
-D:\Cstudy\代码四区\1代码区.cpp(44,34): warning C4311: “类型强制转换”: 从“const int *”到“int”的指针截断
-D:\Cstudy\代码四区\1代码区.cpp(44,34): warning C4302: “类型强制转换”: 从“const int *”到“int”截断
+﻿  2栈区.cpp
+D:\Cstudy\代码四区\2栈区.cpp(11,1): warning C4172: 返回局部变量或临时变量的地址: a
   代码四区.vcxproj -> D:\Cstudy\代码四区\x64\Debug\代码四区.exe
