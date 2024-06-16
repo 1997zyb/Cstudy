@@ -24,5 +24,8 @@
     <ClCompile Include="3引用作函数参数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4引用做函数返回值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
