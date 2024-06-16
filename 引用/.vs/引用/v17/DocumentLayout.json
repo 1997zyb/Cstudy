@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cstudy\\\u5F15\u7528\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A5DEA8-5471-45DC-9B09-45B4326D24A0}|\u5F15\u7528.vcxproj|D:\\Cstudy\\\u5F15\u7528\\1\u5F15\u7528\u7684\u57FA\u672C\u8BED\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1A5DEA8-5471-45DC-9B09-45B4326D24A0}|\u5F15\u7528.vcxproj|solutionrelative:1\u5F15\u7528\u7684\u57FA\u672C\u8BED\u6CD5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 18,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1\u5F15\u7528\u7684\u57FA\u672C\u8BED\u6CD5.cpp",
+              "DocumentMoniker": "D:\\Cstudy\\\u5F15\u7528\\1\u5F15\u7528\u7684\u57FA\u672C\u8BED\u6CD5.cpp",
+              "RelativeDocumentMoniker": "1\u5F15\u7528\u7684\u57FA\u672C\u8BED\u6CD5.cpp",
+              "ToolTip": "D:\\Cstudy\\\u5F15\u7528\\1\u5F15\u7528\u7684\u57FA\u672C\u8BED\u6CD5.cpp",
+              "RelativeToolTip": "1\u5F15\u7528\u7684\u57FA\u672C\u8BED\u6CD5.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T02:56:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
