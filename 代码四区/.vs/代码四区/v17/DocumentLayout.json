@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Cstudy\\\u4EE3\u7801\u56DB\u533A\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6374665E-5601-484D-B2EB-F4DA26A26CD7}|\u4EE3\u7801\u56DB\u533A.vcxproj|D:\\Cstudy\\\u4EE3\u7801\u56DB\u533A\\4new\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6374665E-5601-484D-B2EB-F4DA26A26CD7}|\u4EE3\u7801\u56DB\u533A.vcxproj|solutionrelative:4new\u8FD0\u7B97\u7B26.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6374665E-5601-484D-B2EB-F4DA26A26CD7}|\u4EE3\u7801\u56DB\u533A.vcxproj|D:\\Cstudy\\\u4EE3\u7801\u56DB\u533A\\3\u5806\u533A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6374665E-5601-484D-B2EB-F4DA26A26CD7}|\u4EE3\u7801\u56DB\u533A.vcxproj|solutionrelative:3\u5806\u533A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -13,26 +17,39 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 232,
+          "DockedHeight": 319,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "4new\u8FD0\u7B97\u7B26.cpp",
+              "DocumentMoniker": "D:\\Cstudy\\\u4EE3\u7801\u56DB\u533A\\4new\u8FD0\u7B97\u7B26.cpp",
+              "RelativeDocumentMoniker": "4new\u8FD0\u7B97\u7B26.cpp",
+              "ToolTip": "D:\\Cstudy\\\u4EE3\u7801\u56DB\u533A\\4new\u8FD0\u7B97\u7B26.cpp",
+              "RelativeToolTip": "4new\u8FD0\u7B97\u7B26.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-16T02:33:18.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "3\u5806\u533A.cpp",
               "DocumentMoniker": "D:\\Cstudy\\\u4EE3\u7801\u56DB\u533A\\3\u5806\u533A.cpp",
               "RelativeDocumentMoniker": "3\u5806\u533A.cpp",
               "ToolTip": "D:\\Cstudy\\\u4EE3\u7801\u56DB\u533A\\3\u5806\u533A.cpp",
               "RelativeToolTip": "3\u5806\u533A.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-15T02:59:50.431Z",
+              "WhenOpened": "2024-06-16T02:22:41.583Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 105,
+          "DockedHeight": 18,
           "SelectedChildIndex": -1,
           "Children": [
             {
