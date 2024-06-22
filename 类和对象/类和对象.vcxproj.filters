@@ -18,5 +18,8 @@
     <ClCompile Include="类和对象.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="封装学生类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
