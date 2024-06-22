@@ -24,7 +24,7 @@
     <ClCompile Include="3访问权限.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="struct和class.cpp">
+    <ClCompile Include="4struct和class.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
