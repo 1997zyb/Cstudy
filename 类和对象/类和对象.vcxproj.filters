@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="类和对象.cpp">
+    <ClCompile Include="1类和对象.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="封装学生类.cpp">
+    <ClCompile Include="2封装学生类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3访问权限.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
