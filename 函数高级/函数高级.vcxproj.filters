@@ -18,5 +18,8 @@
     <ClCompile Include="函数的默认参数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数占位参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
