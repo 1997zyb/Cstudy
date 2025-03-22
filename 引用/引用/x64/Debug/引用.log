@@ -1,3 +1,1 @@
-﻿  4引用做函数返回值.cpp
-D:\Cstudy\引用\4引用做函数返回值.cpp(12,1): warning C4172: 返回局部变量或临时变量的地址: a
-  引用.vcxproj -> D:\Cstudy\引用\x64\Debug\引用.exe
+﻿  引用.vcxproj -> D:\Cstudy\引用\x64\Debug\引用.exe

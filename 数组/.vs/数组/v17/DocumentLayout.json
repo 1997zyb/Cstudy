@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedHeight": 109,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +28,7 @@
               "RelativeDocumentMoniker": "1\u6570\u7EC4\u5B9A\u4E49.cpp",
               "ToolTip": "D:\\Cstudy\\\u6570\u7EC4\\1\u6570\u7EC4\u5B9A\u4E49.cpp",
               "RelativeToolTip": "1\u6570\u7EC4\u5B9A\u4E49.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-02T02:13:50.911Z",
               "EditorCaption": ""

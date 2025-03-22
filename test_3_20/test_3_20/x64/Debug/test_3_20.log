@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Cstudy\test_3_20\test.c(65,1): warning C4010: 单行注释包含行继续符
+  test_3_20.vcxproj -> D:\Cstudy\test_3_20\x64\Debug\test_3_20.exe
